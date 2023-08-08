@@ -1,22 +1,60 @@
 {
   "contacts": [
     {
-      "name": "bryroel ",
-      "email": "bryroel@gmail.com",
-      "number": "09876543210",
-      "id": 1
-    },
-    {
-      "name": "sophia",
+      "name": "sophia revised",
       "email": "sophia@email.com",
-      "number": "77777777777",
-      "id": 2
+      "number": "09123456789",
+      "id": 2,
+      "isActive": true
     },
     {
       "name": "jessua",
       "email": "jessua@gmail.com",
       "number": "11111111111",
-      "id": 3
+      "id": 3,
+      "isActive": true
+    },
+    {
+      "name": "sample_1asdasdasda",
+      "email": "ema@sdasda.com",
+      "number": "1231231",
+      "id": 4,
+      "isActive": true
+    },
+    {
+      "name": "test_1",
+      "email": "test_1@email.com",
+      "number": "12345",
+      "id": 5,
+      "isActive": true
+    },
+    {
+      "name": "asdasdad",
+      "email": "asdasdas@email.com",
+      "number": "13213123",
+      "id": 6,
+      "isActive": true
+    },
+    {
+      "name": "sample_1",
+      "email": "sample_1@email.com",
+      "number": "123123",
+      "id": 7,
+      "isActive": true
+    },
+    {
+      "name": "asdasdasd",
+      "email": "emasda@asdas.com",
+      "number": "123123123",
+      "id": 8,
+      "isActive": true
+    },
+    {
+      "name": "sasaasda",
+      "email": "email@asdasd.com",
+      "number": "123131",
+      "isActive": true,
+      "id": 9
     }
   ]
 }

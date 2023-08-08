@@ -1,10 +1,10 @@
 import './App.css';
 import React from 'react';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
-import Home from './Crud/Home';
-import Create from "./Crud/Create";
-import Update from './Crud/Update';
-import View from './Crud/View';
+import Home from './Components/Home';
+import Create from "./Components/Create";
+import Update from './Components/Update';
+import View from './Components/View';
 
 function App () { 
     return (
