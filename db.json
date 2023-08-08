@@ -1,0 +1,22 @@
+{
+  "contacts": [
+    {
+      "name": "bryroel ",
+      "email": "bryroel@gmail.com",
+      "number": "09876543210",
+      "id": 1
+    },
+    {
+      "name": "sophia",
+      "email": "sophia@email.com",
+      "number": "77777777777",
+      "id": 2
+    },
+    {
+      "name": "jessua",
+      "email": "jessua@gmail.com",
+      "number": "11111111111",
+      "id": 3
+    }
+  ]
+}
